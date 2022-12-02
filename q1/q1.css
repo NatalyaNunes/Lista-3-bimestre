@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+aside{
+    margin: 2%;
+    width: 80%;
+}
+a{
+    text-decoration: none;
+}
+a span{
+    text-decoration: none;
+}
+.pad{
+    padding: 1rem;
+}
+img{
+    width: 5rem;
+    height: 5rem;
+}
+table{
+    margin: 1.2rem;
+    text-align: left;
+    width: 96%;
+    margin: 2%;
+}
+thead{
+    background-color: rgba(255, 166, 0, 0.418);
+}
+td,th{
+    padding: 1rem;
+}
+tbody:nth-child(even){
+    background-color: rgba(255, 166, 0, 0.418);
+}
+tr:nth-child(even){
+    background-color: rgba(8, 250, 8, 0.281);
+    
+}

@@ -1,0 +1,64 @@
+.btn-p{
+    padding: 0.3rem 0.6rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    color: white;
+    border-color: transparent;
+}
+.inp{
+    padding: 0.3rem;
+    margin-bottom: 0.3rem;
+}
+.bc-red{
+    background-color: brown;
+}
+.bc-blue{
+    background-color: blue;
+}
+.bc-grey{
+    background-color: rgba(211, 211, 211, 0.315);
+}
+.bc-purple{
+    background-color: rgba(212, 71, 247, 0.158);
+}
+.bc-white{
+    background-color: white;
+}
+.bc-green{
+    background-color: green;
+}
+.bt-dark-green{
+    background-color: rgb(1, 65, 1);
+}
+.bc-orange{
+    background-color: orangered;
+}
+.bc-black{
+    background-color: black;
+}
+.tx-grey{
+    color: rgb(145, 145, 145);
+}
+.tx-purple{
+    color: rgba(128, 27, 153, 0.856);
+}
+.tx-white{
+    color: white !important;
+}
+
+.m1{
+    margin: 0.5rem;
+}
+.mb{
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+.mr{
+    margin-right: 0.5rem;
+}
+.center{
+    text-align: center;
+}
+.br{
+    border-radius: 0.5rem;
+}
