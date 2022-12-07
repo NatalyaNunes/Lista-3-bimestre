@@ -17,7 +17,7 @@
         <div class="bc-white corpo vstack">
             <div class="center">
                 <h4>Criar uma nova conta</h4>
-                <p class="tx-grey">É rápido e fácil</p>
+                <p class="tx-grey">É rápido e fácil </p>
                 <hr>
             </div>
             <div>
